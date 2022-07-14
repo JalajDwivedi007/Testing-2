@@ -29,6 +29,7 @@ public class CollectionExample {
 			
 		}
 		System.out.println("This is a new changes");
+		System.out.println("On master");
 	}
 
 }
