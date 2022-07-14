@@ -25,6 +25,8 @@ public class CollectionExample {
 			Map.Entry me = (Map.Entry) it.next(); //Entry is a sub interface of map
 			// Type casting the next entry into our need
 			System.out.println(me.getKey()+" "+me.getValue());
+			System.out.println(me.getKey()+" "+me.getValue());
+			
 		}
 		System.out.println("This is a new changes");
 	}
