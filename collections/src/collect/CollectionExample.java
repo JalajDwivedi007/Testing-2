@@ -26,9 +26,7 @@ public class CollectionExample {
 			// Type casting the next entry into our need
 			System.out.println(me.getKey()+" "+me.getValue());
 			System.out.println(me.getKey()+" "+me.getValue());
-			System.out.println(me.getKey()+" "+me.getValue());
-			System.out.println(me.getKey()+" "+me.getValue());
-			System.out.println(me.getKey()+" "+me.getValue());
+			
 		}
 	}
 
